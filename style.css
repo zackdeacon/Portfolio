@@ -1,0 +1,108 @@
+.navbar-brand {
+    /* background-color: #85A88A; */
+    font-weight: bold;
+    color: #85A88A !IMPORTANT;
+}
+.navbar-text {
+    color: #c1cac2 !important;
+}
+.container {
+    /* border: solid black; */
+}
+.col {
+    /* border: solid black; */
+}
+.display-4 {
+    color: #85A88A;
+    font-weight: bold;
+    margin-top: -40px;
+    font-size: 30px !important;
+}
+body {
+    background-color: #c1cac2 !important;
+}
+footer {
+    /* border: solid black; */
+    padding: 3px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #343a40;
+}
+.foot-text {
+    color: #85A88A;
+}
+.footer {
+    background-color: #85A88A;
+    height: 1px;
+}
+.jumbotron {
+    margin-top: 10px;
+    background-color: #343a40 !important;
+    color: #85A88A !important;
+}
+.accordion {
+    margin-top: 10px;
+}
+.row {
+    margin-bottom: 10px;
+}
+.zacks_face {
+    max-width: 200px;
+    max-height: 200px;
+    margin-bottom: 25px;
+}
+.my-4 {
+    background-color: #85A88A !important;
+}
+.card-header {
+    background-color: #343a40 !important;
+}
+.btn {
+    color: #85A88A !important;
+}
+.btn-link {
+    color: #85A88A !important;  
+}
+.card-body {
+    background-color: #343a40 !important;
+    color: #85A88A !important;
+}
+.list-group-item {
+    background-color: #343a40 !important;
+    color: #85A88A !important; 
+    border: 1px solid #85A88A !important;
+}
+.card {
+    border: 1px solid #85A88A !important;
+}
+.resume {
+    margin: o auto;
+    max-height: 30px;
+    max-width: 30px;
+    float: right;
+}
+.insta {
+    margin: o auto;
+    max-height: 30px;
+    max-width: 30px;
+    float: right;
+}
+.github {
+    margin: o auto;
+    max-height: 30px;
+    max-width: 30px;
+    float: right;
+}
+.linkedin {
+    margin: o auto;
+    max-height: 30px;
+    max-width: 30px;
+    float: right;
+}
+.reference {
+    margin: o auto;
+    max-height: 30px;
+    max-width: 30px;
+    float: right;
+}
