@@ -12,10 +12,16 @@
 .col {
     /* border: solid black; */
 }
+.col-6 {
+    border: solid black;
+}
+.col-5 {
+    border: solid black;
+}
 .display-4 {
     color: #85A88A;
     font-weight: bold;
-    margin-top: -40px;
+    margin-top: -20px;
     font-size: 30px !important;
 }
 body {
@@ -28,13 +34,19 @@ footer {
     font-weight: bold;
     font-size: 24px;
     background-color: #343a40;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
 .foot-text {
     color: #85A88A;
 }
 .footer {
     background-color: #85A88A;
+    position: relative;
+    bottom: 0;
     height: 1px;
+    width: 100%;
 }
 .jumbotron {
     margin-top: 10px;
@@ -57,6 +69,8 @@ footer {
 }
 .card-header {
     background-color: #343a40 !important;
+    color: #85a88a;
+    text-align: center;
 }
 .btn {
     color: #85A88A !important;
@@ -105,4 +119,40 @@ footer {
     max-height: 30px;
     max-width: 30px;
     float: right;
+}
+/* .card1 {
+    margin-right: 30px !important;
+    margin-left: 30px !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+} */
+/* .card-img-top {
+    max-width: 200px;
+    max-height: 200px;
+    
+} */
+.portfolio-header {
+    text-align: center;
+    color: #343a40;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+}
+.card-title {
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.card-text {
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.btn1 {
+    background-color: #c1cac2 !important;
+    border: #c1cac2 !important;
 }
