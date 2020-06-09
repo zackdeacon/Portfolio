@@ -1,31 +1,32 @@
 .navbar-brand {
     /* background-color: #85A88A; */
     font-weight: bold;
-    color: #85A88A !IMPORTANT;
+    color: #85A88A !important;
 }
 .navbar-text {
-    color: #c1cac2 !important;
+    color: #c1cac2;
 }
 .container {
-    /* border: solid black; */
+    width: 90vw;
+    /* border: solid white; */
 }
-.col {
-    /* border: solid black; */
+/* .col {
+    border: solid white;
 }
 .col-6 {
-    border: solid black;
+    border: solid white;
 }
 .col-5 {
-    border: solid black;
-}
+    border: solid white;
+} */
 .display-4 {
     color: #85A88A;
     font-weight: bold;
     margin-top: -20px;
-    font-size: 30px !important;
+    font-size: 30px ;
 }
 body {
-    background-color: #c1cac2 !important;
+    background-color: #c1cac2;
 }
 footer {
     /* border: solid black; */
@@ -50,45 +51,45 @@ footer {
 }
 .jumbotron {
     margin-top: 10px;
-    background-color: #343a40 !important;
-    color: #85A88A !important;
+    background-color: #343a40;
+    color: #85A88A;
 }
-.accordion {
+.accordion, .list-group {
     margin-top: 10px;
 }
 .row {
     margin-bottom: 10px;
 }
 .zacks_face {
-    max-width: 200px;
-    max-height: 200px;
-    margin-bottom: 25px;
+    max-width: 60%;
+    max-height: 30%;
+    margin: 0 auto 3% auto;
 }
 .my-4 {
-    background-color: #85A88A !important;
+    background-color: #85A88A;
 }
 .card-header {
-    background-color: #343a40 !important;
+    background-color: #343a40;
     color: #85a88a;
     text-align: center;
 }
 .btn {
-    color: #85A88A !important;
+    color: #85A88A;
 }
 .btn-link {
-    color: #85A88A !important;  
+    color: #85A88A;  
 }
 .card-body {
-    background-color: #343a40 !important;
-    color: #85A88A !important;
+    background-color: #343a40;
+    color: #85A88A;
 }
 .list-group-item {
-    background-color: #343a40 !important;
-    color: #85A88A !important; 
-    border: 1px solid #85A88A !important;
+    background-color: #343a40;
+    color: #85A88A; 
+    border: 1px solid #85A88A;
 }
 .card {
-    border: 1px solid #85A88A !important;
+    border: 1px solid #85A88A;
 }
 .resume {
     margin: o auto;
@@ -153,6 +154,6 @@ footer {
     justify-content: center;
 }
 .btn1 {
-    background-color: #c1cac2 !important;
-    border: #c1cac2 !important;
+    background-color: #c1cac2;
+    border: #c1cac2;
 }
