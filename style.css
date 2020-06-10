@@ -61,8 +61,18 @@ footer {
     margin-bottom: 10px;
 }
 .zacks_face {
+    max-width: 225px;
+    max-height: 250px;
+    margin: 0 auto 3% auto;
+}
+.hike {
     max-width: 60%;
     max-height: 30%;
+    margin: 0 auto 3% auto;
+}
+.soccer {
+    max-width: 250px;
+    max-height: 300px;
     margin: 0 auto 3% auto;
 }
 .my-4 {
@@ -78,6 +88,12 @@ footer {
 }
 .btn-link {
     color: #85A88A;  
+}
+.btn.focus, .btn:focus {
+    box-shadow: 0 0 0 0.2rem #85A88A;
+}
+.btn-link:hover {
+color: #c1cac2;
 }
 .card-body {
     background-color: #343a40;
@@ -142,9 +158,9 @@ footer {
 .card-title {
     font-weight: bold;
     color: white;
-    display: flex;
+    /* display: flex;
     align-items: flex-end;
-    justify-content: center;
+    justify-content: center; */
 }
 .card-text {
     font-weight: bold;
@@ -154,6 +170,26 @@ footer {
     justify-content: center;
 }
 .btn1 {
+    color: #343a40;
+    font-weight: bold;
+    background-color: #85a88a;
+    border: 1px solid #c1cac2;
+}
+.btn1:hover {
     background-color: #c1cac2;
-    border: #c1cac2;
+}
+.list-group-item-action:focus, .list-group-item-action:hover {
+    z-index: 1;
+    color: #343a40;
+    text-decoration: none;
+    background-color: #85a88a;
+    border: 1px solid #c1cac2;
+}
+.card-footer {
+    background-color: #343a40;
+    font-size: smaller;
+    color: #85A88A;
+}
+.card-p {
+    margin-top: 10px;
 }
