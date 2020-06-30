@@ -26,25 +26,37 @@
     font-size: 30px ;
 }
 body {
-    background-color: #c1cac2;
+    background-color: #cad1cb;
+    margin-bottom: 20%;
+    margin-top: 0;
+
 }
 footer {
     /* border: solid black; */
-    padding: 3px;
+    /* padding: 3px; */
     text-align: center;
     font-weight: bold;
-    font-size: 24px;
     background-color: #343a40;
-    position: relative;
+    position: fixed;
+    left: 0;
     bottom: 0;
     width: 100%;
+    border-top: 5px solid #85A88A;
+    margin-top: 2rem;
 }
 .foot-text {
     color: #85A88A;
+    padding: .5rem;
+    margin: 2px;
+    font-weight: lighter;
+    font-size: 10px;
+    font-family: sans-serif;
+
 }
 .footer {
     background-color: #85A88A;
-    position: relative;
+    position: fixed;
+    left: 0;
     bottom: 0;
     height: 1px;
     width: 100%;
@@ -53,6 +65,7 @@ footer {
     margin-top: 10px;
     background-color: #343a40;
     color: #85A88A;
+    border: 1px solid #85a88a;
 }
 .accordion, .list-group {
     margin-top: 10px;
@@ -192,4 +205,24 @@ color: #c1cac2;
 }
 .card-p {
     margin-top: 10px;
+}
+.project-card-pic {
+    max-height: 450px;
+}
+/* .col-adj {
+    margin: 1px;
+
+} */
+.parallax {
+    background: url("assets/parallax_2.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+    
+}
+.row-parallax {
+    padding-top: 250px;
+}
+.col-adj {
+    margin-bottom: 20px;
 }
