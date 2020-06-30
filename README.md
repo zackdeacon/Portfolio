@@ -1,4 +1,6 @@
-# Portfolio
+
+Here is the link to the deployed portfolio: https://zackdeacon.github.io/Portfolio/
+
 This is my portfolio containg three different pages: About me, contact, and projects.
 
 About me: 
