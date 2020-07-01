@@ -206,8 +206,9 @@ color: #c1cac2;
 .card-p {
     margin-top: 10px;
 }
-.project-card-pic {
-    max-height: 450px;
+.picSize {
+    /* height: 200px;
+    width: 250px; */
 }
 /* .col-adj {
     margin: 1px;
