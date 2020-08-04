@@ -227,3 +227,11 @@ color: #c1cac2;
 .col-adj {
     margin-bottom: 20px;
 }
+.card-footer-height {
+    height: 300px;
+}
+.Github-link {
+    color: #85A88A;
+    font-weight: bold;
+    text-decoration: underline;
+}
