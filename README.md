@@ -1,5 +1,7 @@
 ## Personal Portfolio
 
+Here is the link to the deployed portfolio: https://zackdeacon.github.io/Portfolio/
+
     
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
