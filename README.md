@@ -1,13 +1,44 @@
+## Personal Portfolio
 
-Here is the link to the deployed portfolio: https://zackdeacon.github.io/Portfolio/
+    
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+## table of contents 
 
-This is my portfolio containg three different pages: About me, contact, and projects.
+* [description](#Description)
+* [contribution](#Contribution)  
+* [insitillation](#Instillation)
+* [usage](#Usage)
+* [testing](#Testing)
+  
 
-About me: 
-        The about me page has links to my resume, social media accounts, refrence letters and professional certifications. It also has a few pictures in a slide show and some information about my background, what my goals are and some hobbies. 
+## Description: 
 
-Contact:
-        This is a form submission page for peopel to reach out to me to request services or information regarding jobs. 
+This is my personal Portfolio. Here you can find any of my professional documents that you could want to find (resume, letters of reccomendation, certifications etc). My contact information is easily accessible here as well, and if you would like to check out some of my projects they are linked here too.  
+    
+    
+## Contribution:
 
-Projects: 
-        This page has links (each with a title header and a descriptive footer) that will allow people that visit the site to click links and view my completed psojects. 
+I am welcome to your feedback but unfortunately this project has a lot of personal information and cant be contributed to directly.  
+    
+## Questions?
+
+* **Please check out:** Feel free to use the contact form on the contact page in my portfolio
+* **Or you can reach to me on Github here:** [Github](https://github.com/zackdeacon)
+* **Im also available via email here:** [Email me!](zackdeacon347@gmail.com) 
+    
+    
+## Installation 
+
+    
+  There are no steps required for installation.  
+    
+## Usage 
+
+    
+  Feel free to click the link and then navigate through the pages. 
+    
+## Testing 
+
+    
+  No Tests
