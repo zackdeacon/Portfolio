@@ -239,3 +239,26 @@ color: #c1cac2;
 .list-inline-item:not(:last-child) {
     margin-right: 0rem;
 }
+
+.contactContainer {
+ margin-top: 15vh;
+ margin-bottom: 15vh;
+
+}
+
+.contactSpacing {
+    margin: 1rem;
+}
+
+.parallaxContact {
+    background: url("assets/parallax_2.jpg") no-repeat bottom;
+    background-size: cover;
+    background-attachment: fixed;
+    /* height: 400px; */
+    /* margin-top: 200px;
+    margin-bottom: 200px; */
+}
+
+.row-parallax-Contact {
+    /* margin-top: 200px; */
+}
